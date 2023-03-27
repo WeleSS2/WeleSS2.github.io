@@ -1,27 +1,33 @@
 This repository will contain files to display in Capybara Game launcher. 
 
-More will be added later.
-
 How to make news?
-Download github repository.
-Make a new folder in correct game folder. Name it as you want (Naming system (KEYWORD_Date_Author_CustomTitle) "CA_14.04.2023_ChaosDwarfsOut", "20.04.2023_Angel321_YTWarhammerHaveSomeFun")
-Make a news in LibreOffice or any other text file editor which allow to save file as .html and save it in your folder.
-Add simple info.txt file with title and short description. Do not use | in title or description, keep title and description in one line
-You can add photo or any other image as icon. Name it as "icon.png" (Correct name and .png format are very important) otherwise it will be filled by default with happy capybara face :)
+
+1. Download github repository.
+2. Make a new folder in correct game folder. Name ir correctly (Naming system (KEYWORD_Date_Author_CustomTitle) "CA_14.04.2023_ChaosDwarfsOut", "20.04.2023_Angel321_YTWarhammerHaveSomeFun")
+3. Make a news in any text file editor which allow to save file as .html (website format) and save it in your folder as index.html. I reccomend to use Google Docs to create an article and download it as website.
+4. Add simple info.txt file with title and short description. Do not use | symbol in title or description, keep title and description in one line.
+5. You can add photo or any other image as icon. Name it as "icon.png" (Correct name and .png format are very important) otherwise it will be filled by default with happy capybara face :)
 Push it to github and wait for approval.
 
-As example you can take my 1st news from uni folder or others news.
+As example you can take my 1st news.
 
-News which are in incorrect folder, have incorrect folder name or contain vulgar content e.t.c will not be approved. But i think that's all is obvious
 
-Do not add multiple .html or .png files into a folder... 
+
+Which articles will not be approved:
+News which are in incorrect folder, have incorrect folder name or files names. 
+News not related to Total War games.
+News which contain vulgar content, nudity, anything related to profit.
+News with multiple files, there should be only 3 files in every folder (I'm not interested in subfolders with images e.t.c.)
+News which contain DEV_ keyword or CA_ and are not relataed to official CA_ news.
+ 
+ 
+ 
 Do not add everything into uni folder. Keep game content in correct folders.
-DO NOT USE CA_ or DEV_ keywords in the name of the folder if news is not related to Creative Assembly news. DEV_ are only for news written by me or selected moderators.
-
 News will be always taken from the latest, mixed uni folder with game folder. Up to 10 of them.
 
-Games are listed by steam id, they will stay like that forever also when i'll start support for Epic Games.
 
+
+Games are listed by steam id, they will stay like that forever also when i'll start support for Epic Games.
 4700 - Medieval II Total war
 34330 - Shogun II Totar War
 241950 - Rome II Emperor
