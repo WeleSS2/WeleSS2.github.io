@@ -1,0 +1,35 @@
+This repository will contain files to display in Capybara Game launcher. 
+
+More will be added later.
+
+How to make news?
+Download github repository.
+Make a new folder in correct game folder. Name it as you want (Naming system (KEYWORD_Date_Author_CustomTitle) "CA_14.04.2023_ChaosDwarfsOut", "20.04.2023_Angel321_YTWarhammerHaveSomeFun")
+Make a news in LibreOffice or any other text file editor which allow to save file as .html and save it in your folder.
+Add simple info.txt file with title and short description. Do not use | in title or description, keep title and description in one line
+You can add photo or any other image as icon. Name it as "icon.png" (Correct name and .png format are very important) otherwise it will be filled by default with happy capybara face :)
+Push it to github and wait for approval.
+
+As example you can take my 1st news from uni folder or others news.
+
+News which are in incorrect folder, have incorrect folder name or contain vulgar content e.t.c will not be approved. But i think that's all is obvious
+
+Do not add multiple .html or .png files into a folder... 
+Do not add everything into uni folder. Keep game content in correct folders.
+DO NOT USE CA_ or DEV_ keywords in the name of the folder if news is not related to Creative Assembly news. DEV_ are only for news written by me or selected moderators.
+
+News will be always taken from the latest, mixed uni folder with game folder. Up to 10 of them.
+
+Games are listed by steam id, they will stay like that forever also when i'll start support for Epic Games.
+
+4700 - Medieval II Total war
+34330 - Shogun II Totar War
+241950 - Rome II Emperor
+325610 - Atilla Total War
+364360 - Warhammer I Total War
+594570 - Warhammer II Total War
+779340 - Three Kingdoms Total War
+885970 - Rome Remastered Total War
+1099410 - Troy Total War
+1142710 - Warhammer III Total War
+uni - News from this folder will be visible in all games
