@@ -1,0 +1,3 @@
+"title" New chaos dwarfs lord
+"description" New chaos lord for dwarfs, a big boy, with a big hammer and a big dog.
+"urlLink" https://www.totalwar.com/blog/tww3_thechaosdwarfs_astragoth/

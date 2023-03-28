@@ -3,14 +3,20 @@ This repository will contain files to display in Capybara Game launcher.
 How to make news?
 
 1. Download github repository.
-2. Make a new folder in correct game folder. Name it correctly (Naming system (KEYWORD_Date_Author_CustomTitle) "CA_14.04.2023_ChaosDwarfsOut", "20.04.2023_Angel321_YTWarhammerHaveSomeFun")
+2. Make a new folder in correct game folder. Name it correctly (Naming system (Info_Date_Author_CustomTitle) "CA_14.04.2023_ChaosDwarfsOut", "20.04.2023_Angel321_YTWarhammerHaveSomeFun")
 3. Make an article in any text file editor which allow to save file as .html (website format) and save it in your folder as index.html. I recommend to use Google Docs to create an article and download it as website.
-4. Add simple info.txt file with title and short description. Do not use | symbol in title or description, keep title and description in one line.
+4. Add simple info.txt file with title and short description. Keep title and description in one line.
 5. You can add photo or any other image as icon. Name it as "icon.png" (Correct name and .png format are very important) otherwise it will be filled by default with happy capybara face :)
 Push it to github and wait for approval.
 
-As example you can take my 1st article.
 
+Pushing links.
+If do you want do push link you do not need to have index.html. Instead you need to add additional line in info.txt named as "urlLink" e.g.
+"title" Chaos Dwarf are Out!
+"description" IF you waited for that then it's a nice news for you, we're getting Chaos Dwarf DLC!
+"urlLink" https://www.totalwar.com/blog/tww3_thechaosdwarfs_astragoth/
+
+As example you can take my 1st article.
 
 
 Which articles will not be approved:
@@ -18,16 +24,17 @@ Articles which are in incorrect folder, have incorrect folder name or files name
 Articles not related to Total War games.
 Articles which contain vulgar content, nudity, anything related to profit.
 News with multiple files, there should be only 3 files in every folder (I'm not interested in subfolders with images e.t.c.)
-News which contain DEV_ keyword or CA_ and are not relataed to official CA_ news.
 Too big articles with implemented a lot of videos e.t.c. I mean articles are .html websited so you can build a whole website as article but please keep it relatively simple ;) Of course you can make your own unique news style!
  
  
-Do not add everything into uni folder. Keep game content in correct folders.
 News will be always taken from the latest, mixed uni folder with game folder. Up to 10 of them.
-
+There will be never more than 25 articles in folder, the oldest one will be removed from repository if is more than 25 of them. 
 
 
 Games are listed by steam id, they will stay like that forever also when i'll start support for Epic Games.
+dev_ca - This folder is for articles pushed by Capybara devs and official CA news (In future also Capybara moderators i think).
+community - Folder where everyone can make their own article and push it waiting on approval.
+
 4700 - Medieval II Total war
 34330 - Shogun II Totar War
 241950 - Rome II Emperor
@@ -39,3 +46,4 @@ Games are listed by steam id, they will stay like that forever also when i'll st
 1099410 - Troy Total War
 1142710 - Warhammer III Total War
 uni - News from this folder will be visible in all games
+Do not add everything into uni folder. Keep game content in correct folders.

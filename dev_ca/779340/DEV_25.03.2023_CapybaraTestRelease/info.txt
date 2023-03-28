@@ -1,0 +1,7 @@
+"title" Capybara is Out!
+"description" Just a holder for news
+
+| Everything after | is invisible and will be ignored (reader just break after reading a separated | ), you can make comments or what you want after.
+
+
+Ech, finally capy is out... 
