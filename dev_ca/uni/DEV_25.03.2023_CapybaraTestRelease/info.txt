@@ -1,7 +1,6 @@
 "title" Capybara is Out!
-"description" It took me a lot of time (Laziness) but finally i want to show you today Capybara Launcher for Total War games!
-
-| Everything after | is invisible and will be ignored (reader just break after reading a separated | ), you can make comments or what you want after.
+"description" It took me a lot of time but finally i want to show you today Capybara Launcher for Total War games!
 
 
-Ech, finally capy is out... 
+
+Ech, finally capy is out... If you're looking here beer for you :P Yea everything in other lines is not visible so you can write here what you want.
