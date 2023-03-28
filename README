@@ -3,7 +3,7 @@ This repository will contain files to display in Capybara Game launcher.
 How to make news?
 
 1. Download github repository.
-2. Make a new folder in correct game folder. Name it correctly (Naming system (Info_Date_Author_CustomTitle) "CA_14.04.2023_ChaosDwarfsOut", "20.04.2023_Angel321_YTWarhammerHaveSomeFun")
+2. Make a new folder in correct game folder. Name it correctly (Naming system (Date_Author_CustomTitle) "14.04.2023_ChaosDwarfsOut", "20.04.2023_Angel321_YTWarhammerHaveSomeFun")
 3. Make an article in any text file editor which allow to save file as .html (website format) and save it in your folder as index.html. I recommend to use Google Docs to create an article and download it as website.
 4. Add simple info.txt file with title and short description. Keep title and description in one line.
 5. You can add photo or any other image as icon. Name it as "icon.png" (Correct name and .png format are very important) otherwise it will be filled by default with happy capybara face :)
@@ -28,7 +28,6 @@ Too big articles with implemented a lot of videos e.t.c. I mean articles are .ht
  
  
 News will be always taken from the latest, mixed uni folder with game folder. Up to 10 of them.
-There will be never more than 25 articles in folder, the oldest one will be removed from repository if is more than 25 of them. 
 
 
 Games are listed by steam id, they will stay like that forever also when i'll start support for Epic Games.
@@ -47,3 +46,11 @@ community - Folder where everyone can make their own article and push it waiting
 1142710 - Warhammer III Total War
 uni - News from this folder will be visible in all games
 Do not add everything into uni folder. Keep game content in correct folders.
+
+Q&A
+
+Can i just modify my "article/website" and folder data when i'm creating a new article instead of making a new one?
+Yes, it's also better solution than spaming articles. Old articles will be removed with a time.
+
+Can i bump my old articles?
+No, do not bump old articles.
