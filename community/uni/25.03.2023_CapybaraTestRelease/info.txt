@@ -1,5 +1,6 @@
 "title" Capybara is Out!
 "description" Just a holder for news
+"urlLink" https://www.google.com
 
 | Everything after | is invisible and will be ignored (reader just break after reading a separated | ), you can make comments or what you want after.
 
