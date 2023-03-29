@@ -11,7 +11,7 @@ Push it to github and wait for approval.
 
 
 Pushing links.
-If do you want do push link you do not need to have index.html. Instead you need to add additional line in info.txt named as "urlLink" e.g.
+If do you want to push link you do not need to have index.html. Instead you need to add additional line in info.txt named as "urlLink" e.g.
 "title" Chaos Dwarf are Out!
 "description" IF you waited for that then it's a nice news for you, we're getting Chaos Dwarf DLC!
 "urlLink" https://www.totalwar.com/blog/tww3_thechaosdwarfs_astragoth/
@@ -24,7 +24,7 @@ Articles which are in incorrect folder, have incorrect folder name or files name
 Articles not related to Total War games.
 Articles which contain vulgar content, nudity, anything related to profit.
 News with multiple files, there should be only 3 files in every folder (I'm not interested in subfolders with images e.t.c.)
-Too big articles with implemented a lot of videos e.t.c. I mean articles are .html websited so you can build a whole website as article but please keep it relatively simple ;) Of course you can make your own unique news style!
+Too big articles with implemented a lot of videos e.t.c. I mean articles are .html websites so you can build a whole website as article but please keep it relatively simple ;) Of course you can make your own unique news style!
  
  
 News will be always taken from the latest, mixed uni folder with game folder. Up to 10 of them.
@@ -54,3 +54,6 @@ Yes, it's also better solution than spaming articles. Old articles will be remov
 
 Can i bump my old articles?
 No, do not bump old articles.
+
+Wait so i can update my old article but i can't bump?
+Yes it's correct, if editing your article/blog/news you're adding something new it's fine. If not i do not accept bumping.
