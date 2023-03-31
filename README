@@ -7,7 +7,7 @@ How to make news?
 3. Make an article in any text file editor which allow to save file as .html (website format) and save it in your folder as index.html. I recommend to use Google Docs to create an article and download it as website.
 4. Add simple info.txt file with title and short description. Keep title and description in one line.
 5. You can add photo or any other image as icon. Name it as "icon.png" (Correct name and .png format are very important) otherwise it will be filled by default with happy capybara face :)
-Push it to github and wait for approval.
+Make commit to main and push it to github waiting for approval.
 
 
 Pushing links.
