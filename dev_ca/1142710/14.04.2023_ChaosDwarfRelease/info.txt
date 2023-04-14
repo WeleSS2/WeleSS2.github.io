@@ -1,0 +1,3 @@
+"title" 3.0 and Chaos Dwarfs
+"description" QoL changes for free, Ulrika and Chaos Dwarfs are available now.
+"urlLink" https://www.totalwar.com/blog/tww3-update-300/
